@@ -12,7 +12,6 @@ export const sessions = pgTable(
   },
   (table) => [index("IDX_session_expire").on(table.expire)]
 );
-
 // User storage table.
 // (IMPORTANT) This table is mandatory for OAuth authentication, don't drop it.
 export const users = pgTable("users", {
