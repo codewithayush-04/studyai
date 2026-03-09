@@ -1,10 +1,11 @@
-# 📚 AI Study App
+📚 AI Study App
 
-An AI-powered study assistant designed to help students learn faster and more efficiently. This app allows users to ask questions, generate smart notes, and improve their understanding using artificial intelligence.
+An AI-powered study assistant designed to help students learn faster and more efficiently.
+This app allows users to ask questions, generate smart notes, and improve their understanding using artificial intelligence.
 
 ---
 
-## 🚀 Features
+🚀 Features
 
 - 🤖 AI-powered question answering
 - 📝 Smart notes generation
@@ -14,71 +15,108 @@ An AI-powered study assistant designed to help students learn faster and more ef
 
 ---
 
-## 🛠 Tech Stack
+🛠 Tech Stack
 
-- Frontend: HTML, CSS, JavaScript / React
-- Backend: Node.js
-- AI Integration: AI API
+Frontend
+
+- HTML
+- CSS
+- JavaScript
+- React.js
+
+Backend
+
+- Node.js
+- Express.js
+
+Database
+
+- Supabase / MongoDB
+
+Other
+
+- AI API Integration
 - Hosting: Replit
 
 ---
 
-## 🔧 Installation
+📁 Project Structure
 
-Clone the repository:
+ai-study-app
+│
+├── client/              # Frontend (React UI)
+│
+├── server/              # Backend API (Node.js / Express)
+│
+├── shared/              # Shared utilities and configurations
+│
+├── script/              # Helper scripts
+│
+├── .local               # Local configuration files
+│
+├── .gitignore           # Git ignored files
+│
+├── .replit              # Replit configuration
+│
+├── components.json      # UI components configuration
+│
+├── drizzle.config.ts    # Database configuration
+│
+└── README.md            # Project documentation
 
-```bash
+---
+
+🔧 Installation
+
+Clone the repository
+
 git clone https://github.com/codewithayush-04/ai-study-app.git
-```
 
-Go to the project folder:
+Go to the project directory
 
-```bash
 cd ai-study-app
-```
 
-Install dependencies:
+Install dependencies
 
-```bash
 npm install
-```
 
-Run the project:
+Run the project
 
-```bash
 npm start
-```
 
 ---
 
-## 🌍 Live Demo
+🌍 Live Demo
 
-https://study-ai--ayushkumargupt9.replit.app/
-
----
-
-## 📌 Future Improvements
-
-- AI quiz generator
-- Study progress tracking
-- Voice-based AI assistant
-- Mobile app version
+🔗 https://study-ai--ayushkumargupt9.replit.app/
 
 ---
 
-## 🤝 Contributing
+📌 Future Improvements
 
-Contributions are welcome! Feel free to fork this repository and submit pull requests.
+- 🧠 AI quiz generator
+- 📊 Study progress tracking
+- 🎤 Voice-based AI assistant
+- 📱 Mobile app version using React Native
 
 ---
 
-## 📄 License
+🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork this repository and submit pull requests.
+
+---
+
+📄 License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 👨‍💻 Author
+👨‍💻 Author
 
-Ayush Gupta  
-GitHub: https://github.com/codewithayush-04
+Ayush Gupta
+
+GitHub:
+https://github.com/codewithayush-04
