@@ -37,7 +37,7 @@ This application allows users to **ask questions, generate smart notes, and impr
 ---
 
 ## 📁 Project Structure
-
+```
 ai-study-app/
 │
 ├── client/                     # Frontend (React App)
@@ -72,7 +72,7 @@ ai-study-app/
 ├── drizzle.config.ts           # Database configuration
 │
 └── README.md                   # Project documentation
-
+```
 ---
 
 ## 🔧 Installation
