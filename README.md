@@ -115,13 +115,12 @@ https://study-ai--ayushkumargupt9.replit.app/
 Contributions are welcome!  
 Feel free to **fork this repository** and submit pull requests.
 
----
+
 
 ## 📄 License
 
 This project is licensed under the **MIT License**.
 
----
 
 ## 👨‍💻 Author
 
