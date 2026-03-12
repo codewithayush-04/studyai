@@ -15,7 +15,7 @@ This application allows users to **ask questions, generate smart notes, and impr
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack 
 
 **Frontend**
 - HTML
@@ -99,7 +99,7 @@ npm start
 
 https://study-ai--ayushkumargupt9.replit.app/
 
----
+
 
 ## 📌 Future Improvements
 
@@ -108,7 +108,7 @@ https://study-ai--ayushkumargupt9.replit.app/
 - Voice-based AI assistant
 - Mobile app version using React Native
 
----
+
 
 ## 🤝 Contributing
 
