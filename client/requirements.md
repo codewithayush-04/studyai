@@ -1,3 +1,5 @@
+## new changes done in the ui and make it more functional
+
 ## Packages
 canvas-confetti | Celebration effect for perfect quiz scores
 @types/canvas-confetti | TypeScript types for canvas-confetti
